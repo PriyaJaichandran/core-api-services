@@ -1,4 +1,4 @@
- Official framework image. Look for the different tagged releases at:
+# Official framework image. Look for the different tagged releases at:
 # https://hub.docker.com/r/library/node/tags/
 image: node:latest
 
@@ -19,4 +19,9 @@ cache:
 test_async:
   script:
     - npm install
-    - node app.js
+    - node ./specs/start.js ./specs/async.spec.js
+
+test_db:
+  script:
+    - npm install
+    - node ./specs/start.js ./specs/db-postgres.spec.js
