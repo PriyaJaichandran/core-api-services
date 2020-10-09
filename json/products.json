@@ -1,0 +1,25 @@
+[ 
+    
+    {
+        "id":1,
+        "name":"Chair",
+        "category":"Home Decor",
+        "material":"Wood",
+        "no_of_pieces":"1 pc",
+        "weight":"3 kg",
+        "price":"₹ 2,999.00",
+        "dimensions":"16 L x 18 W x 35 H",
+        "imgPath":"D:/resources/images/furn2.jpg"
+    },
+    {
+        "id":2,
+        "name":"Table",
+        "category":"Home Decor",
+        "material":"Wood",
+        "no_of_pieces":"1 pc",
+        "weight":"10 kg",
+        "price":"₹ 13,999.00",
+        "dimensions":"21.5 W x 24 H",
+        "imgPath":"D:/resources/images/furn2.jpg"
+    }
+  ] 

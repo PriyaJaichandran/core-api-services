@@ -1,0 +1,15 @@
+{
+  "name": "appservices",
+  "version": "1.0.0",
+  "description": "Rest API services",
+  "main": "app.js",
+  "scripts": {
+    "test": "REST API CALL",
+    "start" : "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
