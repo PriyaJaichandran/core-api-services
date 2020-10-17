@@ -3,7 +3,7 @@
     {
         "id":1,
         "name":"Chair",
-        "category":"Home Decor",
+        "category":"Home Decor Firebase",
         "material":"Wood",
         "no_of_pieces":"1 pc",
         "weight":"3 kg",
@@ -14,7 +14,7 @@
     {
         "id":2,
         "name":"Table",
-        "category":"Home Decor",
+        "category":"Home Decor Firebase 2",
         "material":"Wood",
         "no_of_pieces":"1 pc",
         "weight":"10 kg",
